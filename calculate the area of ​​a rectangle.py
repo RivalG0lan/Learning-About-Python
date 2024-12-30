@@ -1,4 +1,4 @@
-print("Halo kawan, semoga hari mu menyenankan\nBerikut program untuk menghitung luas persegi panjang, ya !!")
+print("Halo User, semoga hari mu menyenankan\nBerikut program untuk menghitung luas persegi panjang, ya !!")
 kemauan = input("Mau memulai programnya sekarang? (y/t): ")
 
 while True:  
